@@ -9,7 +9,7 @@ from sklearn.linear_model import LinearRegression
 model = pickle.load(open('model.pkl', 'rb'))
 
 # Title
-st.title('Cost of Living Index Prediction')
+st.title('Cost of Living Index Prediction ASEAN Country')
 st.image('img.jpg', use_column_width=True)
 st.write('The Cost of Living Index is a relative indicator of consumer goods prices, including groceries, restaurants, transportation and utilities. The Cost of Living Index does not include accommodation expenses such as rent or mortgage. If a city has a Cost of Living Index of 120, it means Numbeo has an estimated cost that is 20% more expensive than New York (excluding rent).')
 
