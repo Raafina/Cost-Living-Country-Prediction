@@ -2,7 +2,7 @@ Nama  : Raafi Nur Adzani
 NIM   : A11.2021.13536
 Kelas : A11.4404
 
-Deployment Link : raafi-na.streamlit.app   
+Deployment Link : https://raafi-na.streamlit.app
 
 Reference :   
 https://www.sciencedirect.com/science/article/abs/pii/B978044488108350007X   
