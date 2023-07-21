@@ -2,6 +2,8 @@ Nama  : Raafi Nur Adzani
 NIM   : A11.2021.13536
 Kelas : A11.4404
 
+Deployment Link : raafi-na.streamlit.app   
+
 Reference :   
 https://www.sciencedirect.com/science/article/abs/pii/B978044488108350007X   
 https://www.researchgate.net/publication/4734139_Toward_a_Cost-of-Living_Index_Progress_and_Prospects   
