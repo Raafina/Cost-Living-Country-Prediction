@@ -44,7 +44,7 @@ if st.button('Prediction'):
         
         # Perform prediction
         prediksi_Indeks_biaya_hidup = model.predict([[Indeks_Sewa, Indeks_Grosir, Indeks_Harga_Restoran, Indeks_Daya_Beli_Lokal]])
-        st.write('Hasil Prediksi: ', prediksi_Indeks_biaya_hidup)
+        st.write('Prediction Result: ', prediksi_Indeks_biaya_hidup)
     else:
-        st.write('Masukkan nilai numerik untuk semua input')
+        st.write('Input numerical value')
 
