@@ -1,6 +1,6 @@
 
 ## Cost Living Country Prediction
-Cost-Living-Country-Prediction is a machine learning project that predicts the cost of living for Data Science Final Project (University Course)
+Cost-Living-Country-Prediction is a machine learning project that predicts the cost of living for Data Mining Final Project (University Course)
 
 ## My Student Data
 Nama  : Raafi Nur Adzani   
